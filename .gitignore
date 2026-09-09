@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local data, checkpoints, logs, and generated predictions
+data/
+datasets/
+runs/
+checkpoints/
+outputs/
+logs/
+*.pt
+*.pth
+*.pth.tar
+*.tar
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
