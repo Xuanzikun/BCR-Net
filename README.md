@@ -63,11 +63,12 @@ If you find our work interesting and useful, please consider citing our paper:
 @ARTICLE{11677204,
   author={Li, Jiaxuan and Liu, Yao and Xue, Yuewei and Wen, Ruixiang and Li, Jiaqi and Xian, Yuhui and Xie, Jun and Liu, Qiao},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
-  title={BCR-Net: Body-Boundary Collaboration with Adaptive Residual Compensation for Infrared Small Target Detection},
+  title={BCR-Net: Body-Boundary Collaboration With Adaptive Residual Compensation for Infrared Small-Target Detection},
   year={2026},
-  volume={},
+  volume={64},
   number={},
-  pages={1-1},
+  pages={5010015-5010015},
+  keywords={Modeling;Streams;Personal digital devices;Object detection;Decoding;Clutter;Pixel;Design methodology;Learning (artificial intelligence);Modules (abstract algebra);Adaptive residual compensation;boundary guidance;infrared small-target detection (IRSTD);single-frame detection},
   doi={10.1109/TGRS.2026.3730041}
 }
 ```
